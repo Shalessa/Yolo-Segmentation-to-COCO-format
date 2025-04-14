@@ -24,14 +24,13 @@ This script converts polygon annotations from YOLO format (normalized coordinate
 
 - Python 3.x
 - PIL (Pillow) for image processing
-- Standard libraries: json, os, re
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/yolo-to-coco-converter.git
-cd yolo-to-coco-converter
+git clone https://github.com/Shalessa/Yolo-Segmentation-to-COCO-format.git
+cd Yolo-Segmentation-to-COCO-format
 
 # Install dependencies
 pip install pillow
